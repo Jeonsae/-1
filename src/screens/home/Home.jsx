@@ -42,7 +42,7 @@ export default function HomeScreen({navigation}){
                   uri:"."}}
                 style={{width:80, height: 80, borderRadius:40}}
                 />
-              <UserName>리액트</UserName>
+              <UserName>테스트</UserName>
             </Story>
             <Story>
               <Image 
